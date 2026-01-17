@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://casusbe11i.github.io/1win-zerkalo-2026/sitemap.xml
